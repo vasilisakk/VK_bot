@@ -1,0 +1,36 @@
+{
+  "one_time": false,
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "open_link",
+          "link": "https://education.vk.company/education_projects",
+          "label": "Сайт VK Education Projects",
+          "payload": {
+            "type": "open_link",
+            "link": "https://education.vk.company/education_projects"
+          }
+        }
+      }
+    ],
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "Что такое VK Education Projects?"
+        },
+        "color": "primary"
+      }
+    ],
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "Ответы на частые вопросы"
+        },
+        "color": "positive"
+      }
+    ]
+  ]
+}

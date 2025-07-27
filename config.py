@@ -1,0 +1,4 @@
+token = 'vk1.a.VKydHp2G_nF7KZTDGxO5aKqFzJINrNjcq89Gr4uRgSxceiL9zPvsiCnCFpqW-vrV41COmn8JXZaRkcgR7Y0mVG9fbKIrDwYaBhj_41M72fhpW9N478I7SUMnF6huCBvvgbl_14dCBrPutd7p3t1Sqi_0YxBw6-88SMf2VvE2KbbikM8rZnUdzj-KqTImk9UDAOljt1FLOTw_tACiO0DiiQ'
+OAUTH_TOKEN = 'y0__xCDmZuiARjB3RMg9cXu9RK5qj30rmBtEC27Z6sWmZOj_shpsg'
+FOLDER_ID = 'b1grb95bpoebmj0bn6p5'
+IAM_TOKEN = None
